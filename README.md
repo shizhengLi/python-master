@@ -1,14 +1,6 @@
 # 🐍 Python技术深度解析系列
 
-<div align="center">
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Level](https://img.shields.io/badge/Level-Advanced-red.svg)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
-
 **一个深入探索Python核心原理与高级技术的专业学习系列**
-
-</div>
 
 ## 📖 系列概述
 
@@ -210,7 +202,6 @@
 ---
 
 <div align="center">
-
 **如果这个系列对你有帮助，请给个⭐️Star支持一下！**
 
 </div>
